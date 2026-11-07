@@ -1,11 +1,13 @@
-<a><img src="https://skillicons.dev/icons?i=js,ts,bash,py,cs,c,cpp,rust,java&perline=9" alt="langs: JavaScript, TypeScript, Bash, Python, C#, C, C++, Rust, Java"></a>
+<div align="center">
+  <img src="banner.svg" alt="narkomaniya — github profile banner" width="100%">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Brainfuck-2E3440?style=for-the-badge" alt="Brainfuck">
-  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge" alt="Assembly">
-</p>
+  <a><img src="https://skillicons.dev/icons?i=js,ts,bash,py,cs,c,cpp,rust,java&perline=9" alt="langs: JavaScript, TypeScript, Bash, Python, C#, C, C++, Rust, Java"></a>
 
----
+  <p>
+    <img src="https://img.shields.io/badge/Brainfuck-2E3440?style=for-the-badge" alt="Brainfuck">
+    <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge" alt="Assembly">
+  </p>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/narkomaniya/narkomaniya/output/github-contribution-grid-snake-dark.svg" />
@@ -14,4 +16,3 @@
 </picture>
 
 ---
-
