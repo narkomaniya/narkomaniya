@@ -1,5 +1,5 @@
 
-<a><img src="https://skillicons.dev/icons?i=js,ts,bash,py,cs,c,cpp&perline=7" alt="langs: JavaScript, TypeScript, Bash, Python, C#, C, C++"></a>
+<a><img src="https://skillicons.dev/icons?i=js,ts,bash,py,cs,c,cpp&perline=7" alt="langs: JavaScript, TypeScript, Bash, Python, C#, C, C++, Rust"></a>
 
 <img src="https://img.shields.io/badge/Brainfuck-2E3440?style=for-the-badge" alt="Brainfuck">
 <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge" alt="Assembly">
