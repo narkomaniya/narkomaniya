@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.svg" alt="narkomaniya — github profile banner" width="100%">
+  <img src="banner.svg" alt="drug addict — github profile banner" width="100%">
 
   <a><img src="https://skillicons.dev/icons?i=js,ts,bash,py,cs,c,cpp,rust,java&perline=9" alt="langs: JavaScript, TypeScript, Bash, Python, C#, C, C++, Rust, Java"></a>
 
@@ -9,8 +9,9 @@
   </p>
 </div>
 
+---
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/narkomaniya/narkomaniya/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/narkomaniya/narkomaniya/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/narkomaniya/narkomaniya/output/github-contribution-grid-snake.gif" />
 </picture>
