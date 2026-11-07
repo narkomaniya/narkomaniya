@@ -1,7 +1,7 @@
 <div align="center">
   <img src="banner.svg" alt="drug addict — github profile banner" width="100%">
 
-  <a><img src="https://skillicons.dev/icons?i=js,ts,bash,py,cs,c,cpp,rust,java&perline=9" alt="langs: JavaScript, TypeScript, Bash, Python, C#, C, C++, Rust, Java"></a>
+  <a><img src="https://skillicons.dev/icons?i=js,ts,bash,py,cs,c,cpp,rust,java,go,swift,kotlin,lua,php&perline=7" alt="langs: JavaScript, TypeScript, Bash, Python, C#, C, C++, Rust, Java, Go, Swift, Kotlin, Lua, PHP"></a>
 
   <p>
     <img src="https://img.shields.io/badge/Brainfuck-2E3440?style=for-the-badge" alt="Brainfuck">
